@@ -13,7 +13,7 @@
 - 💻 I use daily: **Java**, **Python**, **CSS**, **Bash**, **JavaScript**
 - 🌱 I’m currently learning **Kubernetes, Terraform, and CI/CD Pipelines**
 - 💬 Ask me about **DevOps, Cloud, Security, and Backend Development**
-- ⚡ Fun fact: **I think I am funny** 😆
+- ⚡ Projects: 
 - 🔗 My GitHub: [victortterry](https://github.com/victortterry)
 
 ---

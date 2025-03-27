@@ -1,4 +1,4 @@
-# Hi there! Nyikwagh Victor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I'm Nyikwagh Victor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
 <a href="https://twitter.comr_twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;
@@ -13,7 +13,7 @@
 - 💻 I use daily: **Java**, **Python**, **CSS**, **Bash**, **JavaScript**
 - 🌱 I’m currently learning **Kubernetes, Terraform, and CI/CD Pipelines**
 - 💬 Ask me about **DevOps, Cloud, Security, and Backend Development**
-- ⚡ Projects: 
+- ⚡ Lets Work Together 
 - 🔗 My GitHub: [victortterry](https://github.com/victortterry)
 
 ---

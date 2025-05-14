@@ -10,9 +10,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a **DevOps Engineer | Software Developer | Cybersecurity Enthusiast**
 - 📝 I regularly write technical articles on [My Medium Profile](https://medium.com/@victorterry)
-- 💻 I use daily: **Java**, **Python**, **CSS**, **Bash**, **JavaScript**
+- 💻 I use daily: **Next.js**, **Python**, **React**, **Typescript**, **JavaScript**, **MySQL (AWS RDS)**, **Docker**,**Firebase**
 - 🌱 I’m currently learning **Kubernetes, Terraform, and CI/CD Pipelines**
-- 💬 Ask me about **DevOps, Cloud, Security, and Backend Development**
+- 💬 Ask me about **DevOps, Cloud, Security, Frontend and Backend Development**
 - ⚡ Lets Work Together 
 - 🔗 My GitHub: [victortterry](https://github.com/victortterry)
 

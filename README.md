@@ -8,19 +8,20 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a **DevOps Engineer | Software Developer | Cybersecurity Enthusiast**
+- 🏦 I'm a **DevOps Engineer | Software Developer | Frontend Developer | AI Enthusiast**
+- 🧠 Passionate about **cloud-native apps**, **AI tools**, and **modern frontend UI/UX**
 - 📝 I regularly write technical articles on [My Medium Profile](https://medium.com/@victorterry)
-- 💻 I use daily: **Next.js**, **Python**, **React**, **Typescript**, **JavaScript**, **MySQL (AWS RDS)**, **Docker**,**Firebase**
-- 🌱 I’m currently learning **Kubernetes, Terraform, and CI/CD Pipelines**
-- 💬 Ask me about **DevOps, Cloud, Security, Frontend and Backend Development**
-- ⚡ Lets Work Together 
+- 💻 I use daily: **Next.js**, **React**, **Typescript**, **JavaScript**, **Python**, **MySQL (AWS RDS)**, **Docker**, **Firebase**
+- 🌱 I’m currently learning **Kubernetes**, **Terraform**, and **CI/CD Pipelines**
+- 💬 Ask me about **DevOps, Frontend Engineering, Cloud, AI, or System Design**
+- ⚡ Let’s build great things together
 - 🔗 My GitHub: [victortterry](https://github.com/victortterry)
 
 ---
 
-## 🛠️ Tech Stack:
+# 🛠️ Tech Stack:
 
-### DevOps & Cloud Technologies:
+## 🧪 DevOps & Cloud Technologies:
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
@@ -31,17 +32,22 @@
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
 </p>
 
-### Software Development:
+## 💻 Software & Frontend Development:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
 </p>
+
+## 🧠 AI & Enthusiast Tools:
+- AI integrations (ChatGPT, LangChain)
+- Prompt Engineering
+- LLM fine-tuning (Beginner)
+- OpenAI APIs
 
 ---
 

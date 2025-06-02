@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Kubernetes**, **Terraform**, and **CI/CD Pipelines**
 - 💬 Ask me about **DevOps, Frontend Engineering, Cloud, AI, or System Design**
 - ⚡ Let’s build great things together
-- 🔗 My GitHub: [victortterry](https://github.com/victortterry)
+
 
 ---
 

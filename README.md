@@ -1,4 +1,4 @@
-# Hi there! I am Tochukwu Gbolahan Onuoha
+# Hi there! I am Tochukwu Onuoha
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
